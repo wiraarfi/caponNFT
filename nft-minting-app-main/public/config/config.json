@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x46188032b2f32e86ff47d88481fb7720f2c3476f0b3410ea3f1975677f8ca6bc",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0x46188032b2f32e86ff47d88481fb7720f2c3476f0b3410ea3f1975677f8ca6bc",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "Capon NFT",
+  "SYMBOL": "CNFT",
+  "MAX_SUPPLY": 229,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/capon",
+  "SHOW_BACKGROUND": true
+}
