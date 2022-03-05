@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x46188032b2f32e86ff47d88481fb7720f2c3476f0b3410ea3f1975677f8ca6bc",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0x46188032b2f32e86ff47d88481fb7720f2c3476f0b3410ea3f1975677f8ca6bc",
+  "CONTRACT_ADDRESS": "0x680a59f45d49bf941372776fe2cee1c552084a4c",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x680a59f45d49bf941372776fe2cee1c552084a4c",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
